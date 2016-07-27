@@ -1,0 +1,2 @@
+http://www.ida.liu.se/~TDDC17/info/labs/planning/2004/writing.html
+https://courses.cs.washington.edu/courses/cse473/06sp/pddl.pdf

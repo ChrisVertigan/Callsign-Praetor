@@ -1,0 +1,5 @@
+(define (problem task-problem)
+(:domain task)
+(:objects NPC13 NPC12 NPC11 NPC10 NPC03 NPC02 NPC01 NPC00 )
+(:init (islabourer NPC13) (islabourer NPC12) (islabourer NPC11) (islabourer NPC10) (islabourer NPC03) (islabourer NPC02) (islabourer NPC01) (islabourer NPC00) (= (stone) 0) (= (coal) 0) (= (ore) 0) (= (iron) 0) (= (timber) 0) (= (wood) 0) (= (money) 0) (= (axes) 0) (= (carts) 0) (= (rifles) 0) (= (huts) 0) (= (houses) 0) (= (schools) 0) (= (barracks) 0) (= (storages) 1) (= (mines) 0) (= (smelters) 0) (= (quarries) 0) (= (sawmills) 0) (= (blacksmiths) 0) (= (markets) 0) (= (people) 8))
+(:goal (> (ore) 0)))

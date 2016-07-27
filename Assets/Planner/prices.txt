@@ -1,0 +1,9 @@
+stone 1
+coal 1
+ore 1
+iron 3
+wood 3
+timber 1
+axe 3
+rifle 5
+cart 5
